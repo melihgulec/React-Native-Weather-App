@@ -9,7 +9,7 @@ export default [
     },
     {
         "id": "3",
-        "name":"Istanbul"
+        "name":"İstanbul"
     },
     {
         "id": "4",
